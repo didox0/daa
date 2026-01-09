@@ -35,7 +35,7 @@
 }
 /* --- Global & Background Styling (Retained from previous example) --- */
 body {
-  background: radial-gradient(circle at 20% 20%, #4f4660 0%, rgba(54, 50, 61, 0.902) 30%, #080b18 80%);
+  background: radial-gradient(circle at 20% 20%, #4f4660 0%, #36323de6 30%, #080b18 80%);
   background-color: #0a0f1f;
   background-attachment: fixed;
   background-size: 400% 400%;
